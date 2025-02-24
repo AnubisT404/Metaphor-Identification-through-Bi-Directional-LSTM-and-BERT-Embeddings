@@ -42,9 +42,3 @@ python test.py
 ## **Results**  
 - Achieved high accuracy in detecting metaphorical vs. literal sentences.  
 - Improved interpretability by analyzing attention weights.  
-
-## **Future Improvements**  
-- Expand dataset for better generalization.  
-- Experiment with transformer-based models like GPT.  
-
----
