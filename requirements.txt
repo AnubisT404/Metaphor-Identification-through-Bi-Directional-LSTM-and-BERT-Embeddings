@@ -1,0 +1,13 @@
+torch
+tensorflow
+transformers
+numpy
+pandas
+scikit-learn
+matplotlib
+spacy
+nltk
+gensim
+hyperopt
+xgboost
+seaborn
